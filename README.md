@@ -1,7 +1,7 @@
 **Descrição:**
 
 O programa realiza traduções de palavras do portugûes para o inglês e também mostra como se pronúncia a respectiva palavra em inglês, isso tudo é feito através da utilização de um arquivo texto.
-O projeto é relativamente simples, visa os conceitos de classes abstratas, herança e manipulação de arquivos texto. Desse modo você vai ver como esses conceitos serão  utilizado na prática e com isso possa esclarecer alguma dúvida sobre algo relacionado.
+O projeto é relativamente simples, visa os conceitos de classes abstratas, herança e manipulação de arquivos texto.
 
 **Arquivo Texto**
 
